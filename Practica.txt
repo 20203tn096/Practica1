@@ -1,4 +1,3 @@
-Practica 1
-Omar Morales Demetrio 
-Matricula: 20203tn096
-Fecha:24/Mayo/2021
+Omar Morales Demetrio
+CURP:MODO020221HMSRMA1
+Edad: 18 
